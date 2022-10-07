@@ -30,4 +30,5 @@
  - Решаю задачки на CodeWars
 
 ### 📫 Можете связаться со мной в телеграм [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" height ="40" align="center"/>](https://t.me/metkiyd)
-[🌐Ссылка на резюме🌐](https://metkiyd.github.io/Resume/) (в стадии разработки)
+[🌐Ссылка на резюме🌐](https://metkiyd.github.io/Resume/)
+[⬇Скачать резюме pdf⬇](https://drive.google.com/file/d/1Zjvz663DUeGadmibAGgn0KYPdlUH0bcN/view?usp=sharing)
