@@ -31,8 +31,8 @@
  - Занимаюсь написанием своего пет проекта
  - Решаю задачки на CodeWars
 
-## 📫 
-[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png"/>Можете связаться со мной в телеграм<img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png"/>](https://t.me/metkiyd)
+# 📫 
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" height="20"/>Можете связаться со мной в телеграм<img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" height="20"/>](https://t.me/metkiyd)
 
 [🌐 Ссылка на резюме 🌐](https://metkiyd.github.io/myReactResume/)
 
