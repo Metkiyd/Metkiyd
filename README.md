@@ -32,7 +32,7 @@
  - Решаю задачки на CodeWars
 
 # 📫 
-[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" height="10"/>Можете связаться со мной в телеграм<img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" height="10"/>](https://t.me/metkiyd)
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" height="15"/> Можете связаться со мной в телеграм <img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" height="15"/>](https://t.me/metkiyd)
 
 [🌐 Ссылка на резюме 🌐](https://metkiyd.github.io/myReactResume/)
 
