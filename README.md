@@ -34,6 +34,6 @@
 # 📫 
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" height="15"/> Можете связаться со мной в телеграм <img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" height="15"/>](https://t.me/metkiyd)
 
-[🌐 Ссылка на резюме 🌐](https://metkiyd.github.io/myReactResume/)
+[🌐 Ссылка на резюме 🌐](https://my-react-resume-metkiyd.vercel.app/)
 
 [⬇ Скачать резюме pdf ⬇](https://drive.google.com/file/d/1iMoKAZ5qmNQI1Xin5D0l_uNQDtuSx9TC/view?usp=sharing)
